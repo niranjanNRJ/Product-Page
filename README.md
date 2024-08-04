@@ -9,7 +9,7 @@ This repository contains the source code for a static product page website creat
 
 ## Usage ##
 #### To view the website locally: ####
-1. Clone the repository: 
+1. Clone the repository: git clone https://github.com/niranjanNRJ/Product-Page.git
 2. Navigate to the project directory: cd product-page-website
 3. Open index.html in your web browser.
 4. Feel free to explore, modify, and use the code as per your requirements. Contributions are welcome!
